@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SpringBootMybatis" />
+        <module name="SpringBootMoreDataSource" />
+        <module name="startSpringboot" />
+        <module name="IocDesign" />
+        <module name="SpringBootAOPTest" />
+        <module name="AopDesign" />
+        <module name="basicConfigration" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AopDesign" target="1.8" />
+      <module name="basicConfigration" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="IocDesign" target="1.8" />
+      <module name="SpringBootAOPTest" target="1.8" />
+      <module name="SpringBootMoreDataSource" target="1.8" />
+      <module name="SpringBootMybatis" target="1.8" />
+      <module name="springBootStart" target="1.5" />
+      <module name="startSpringboot" target="1.8" />
+      <module name="startSpringBoot" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="AopDesign" options="-parameters" />
+      <module name="IocDesign" options="-parameters" />
+      <module name="SpringBootAOPTest" options="-parameters" />
+      <module name="SpringBootMoreDataSource" options="-parameters" />
+      <module name="SpringBootMybatis" options="-parameters" />
+      <module name="basicConfigration" options="-parameters" />
+      <module name="demo" options="-parameters" />
+      <module name="startSpringboot" options="-parameters" />
+    </option>
+  </component>
+</project>

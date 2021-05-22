@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AopDesign/AopDesign.iml" filepath="$PROJECT_DIR$/AopDesign/AopDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IocDesign/IocDesign.iml" filepath="$PROJECT_DIR$/IocDesign/IocDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootAOPTest/SpringBootAOPTest.iml" filepath="$PROJECT_DIR$/SpringBootAOPTest/SpringBootAOPTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootMoreDataSource/SpringBootMoreDataSource.iml" filepath="$PROJECT_DIR$/SpringBootMoreDataSource/SpringBootMoreDataSource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootMybatis/SpringBootMybatis.iml" filepath="$PROJECT_DIR$/SpringBootMybatis/SpringBootMybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringPart.iml" filepath="$PROJECT_DIR$/.idea/SpringPart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basicConfigration/basicConfigration.iml" filepath="$PROJECT_DIR$/basicConfigration/basicConfigration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/startSpringboot/startSpringboot.iml" filepath="$PROJECT_DIR$/demo/startSpringboot/startSpringboot.iml" />
+    </modules>
+  </component>
+</project>
