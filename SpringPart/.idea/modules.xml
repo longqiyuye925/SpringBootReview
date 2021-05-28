@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/SpringBootMoreDataSource/SpringBootMoreDataSource.iml" filepath="$PROJECT_DIR$/SpringBootMoreDataSource/SpringBootMoreDataSource.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBootMybatis/SpringBootMybatis.iml" filepath="$PROJECT_DIR$/SpringBootMybatis/SpringBootMybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringPart.iml" filepath="$PROJECT_DIR$/.idea/SpringPart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baseTestByMyself/baseTestByMyself.iml" filepath="$PROJECT_DIR$/baseTestByMyself/baseTestByMyself.iml" />
       <module fileurl="file://$PROJECT_DIR$/basicConfigration/basicConfigration.iml" filepath="$PROJECT_DIR$/basicConfigration/basicConfigration.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo/startSpringboot/startSpringboot.iml" filepath="$PROJECT_DIR$/demo/startSpringboot/startSpringboot.iml" />
     </modules>

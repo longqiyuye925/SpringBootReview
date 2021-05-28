@@ -11,6 +11,7 @@
         <module name="SpringBootMoreDataSource" />
         <module name="startSpringboot" />
         <module name="IocDesign" />
+        <module name="baseTestByMyself" />
         <module name="SpringBootAOPTest" />
         <module name="AopDesign" />
         <module name="basicConfigration" />
@@ -18,6 +19,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="AopDesign" target="1.8" />
+      <module name="baseTestByMyself" target="1.8" />
       <module name="basicConfigration" target="1.8" />
       <module name="demo" target="1.8" />
       <module name="IocDesign" target="1.8" />
@@ -36,6 +38,7 @@
       <module name="SpringBootAOPTest" options="-parameters" />
       <module name="SpringBootMoreDataSource" options="-parameters" />
       <module name="SpringBootMybatis" options="-parameters" />
+      <module name="baseTestByMyself" options="-parameters" />
       <module name="basicConfigration" options="-parameters" />
       <module name="demo" options="-parameters" />
       <module name="startSpringboot" options="-parameters" />
