@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AopDesign/AopDesign.iml" filepath="$PROJECT_DIR$/AopDesign/AopDesign.iml" />
       <module fileurl="file://$PROJECT_DIR$/IocDesign/IocDesign.iml" filepath="$PROJECT_DIR$/IocDesign/IocDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MvcDesign/MvcDesign.iml" filepath="$PROJECT_DIR$/MvcDesign/MvcDesign.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBootAOPTest/SpringBootAOPTest.iml" filepath="$PROJECT_DIR$/SpringBootAOPTest/SpringBootAOPTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBootMoreDataSource/SpringBootMoreDataSource.iml" filepath="$PROJECT_DIR$/SpringBootMoreDataSource/SpringBootMoreDataSource.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBootMybatis/SpringBootMybatis.iml" filepath="$PROJECT_DIR$/SpringBootMybatis/SpringBootMybatis.iml" />
